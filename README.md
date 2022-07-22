@@ -1,7 +1,7 @@
 # Mod Enabler For Phoenix Point
 
 This will enable official mod support for non-Steam versions of Phoenix Point (**Windows only**).
-Mods have been introduced with version Hastur 1.2.0. Mod Enabler **will not work** on earlier versions.
+Mods have been introduced with version Hastur 1.20.0. Mod Enabler **will not work** on earlier versions.
 
 ## Installation
 
